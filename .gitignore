@@ -1,0 +1,14 @@
+# misc
+.DS_Store
+*.log
+*.cache
+
+# third party dependencies
+node_modules/
+
+# build directories
+dist/
+
+# editor files
+*.sublime-workspace
+*.vscode
